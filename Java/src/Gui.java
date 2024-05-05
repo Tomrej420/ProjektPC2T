@@ -1,4 +1,4 @@
-package src;
+
 import java.awt.Font;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -18,12 +18,12 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
-import src.Books.Book;
-import src.Books.Novel;
-import src.Books.TextBook;
-import src.Books.Novel.Genre;
-import src.Books.TextBook.Grade;
-import src.SQLI.Querries;
+import Books.Book;
+import Books.Novel;
+import Books.TextBook;
+import Books.Novel.Genre;
+import Books.TextBook.Grade;
+import SQLI.Querries;
 
 public class Gui extends JFrame implements ActionListener {
 

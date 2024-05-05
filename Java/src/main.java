@@ -1,7 +1,4 @@
-package src;
-
 import com.formdev.flatlaf.intellijthemes.FlatCobalt2IJTheme;
-
 
 
 public class main {

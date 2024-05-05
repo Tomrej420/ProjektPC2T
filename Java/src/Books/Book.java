@@ -1,4 +1,4 @@
-package src.Books;
+package Books;
 
 public class Book {
 

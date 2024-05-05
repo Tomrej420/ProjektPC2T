@@ -1,4 +1,4 @@
-package src.Books;
+package Books;
 
 public class TextBook extends Book {
     public enum Grade {

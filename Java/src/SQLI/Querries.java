@@ -1,4 +1,4 @@
-package src.SQLI;
+package SQLI;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -12,9 +12,9 @@ import javax.swing.table.DefaultTableModel;
 
 import com.mysql.cj.jdbc.result.ResultSetMetaData;
 
-import src.Books.Book;
-import src.Books.Novel;
-import src.Books.TextBook;
+import Books.Book;
+import Books.Novel;
+import Books.TextBook;
 
 
 /**
